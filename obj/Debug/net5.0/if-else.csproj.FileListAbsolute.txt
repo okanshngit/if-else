@@ -1,0 +1,16 @@
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.csproj.AssemblyReference.cache
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.AssemblyInfoInputs.cache
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.AssemblyInfo.cs
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.csproj.CoreCompileInputs.cache
+C:\Users\okans\Desktop\pratikler\if-else\bin\Debug\net5.0\if-else.exe
+C:\Users\okans\Desktop\pratikler\if-else\bin\Debug\net5.0\if-else.deps.json
+C:\Users\okans\Desktop\pratikler\if-else\bin\Debug\net5.0\if-else.runtimeconfig.json
+C:\Users\okans\Desktop\pratikler\if-else\bin\Debug\net5.0\if-else.runtimeconfig.dev.json
+C:\Users\okans\Desktop\pratikler\if-else\bin\Debug\net5.0\if-else.dll
+C:\Users\okans\Desktop\pratikler\if-else\bin\Debug\net5.0\ref\if-else.dll
+C:\Users\okans\Desktop\pratikler\if-else\bin\Debug\net5.0\if-else.pdb
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.dll
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\ref\if-else.dll
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.pdb
+C:\Users\okans\Desktop\pratikler\if-else\obj\Debug\net5.0\if-else.genruntimeconfig.cache
